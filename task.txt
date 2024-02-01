@@ -1,0 +1,4 @@
+Terraform Create 
+- 3 ECR repos , Lifecycle policy - expire after 8 images
+- Encryption , 1 - KMS,
+- Scan On Push   
